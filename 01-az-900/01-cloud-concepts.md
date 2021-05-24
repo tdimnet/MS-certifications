@@ -49,3 +49,12 @@
 - Public cloud: AWS, GCP, Azure. No upfront costs but montly usage.
 - Hybrid Cloud: a mix of private and public.
 
+
+### Quiz
+
+- What is serverless computing?
+- What is a benefit of a hybrid cloud approach?
+- What is consumption-based pricing on Azure?
+- What is the difference between OpEx and CaPex?
+- How does scalability on Azure work?
+- Which cloud ability does elasticity describe?
